@@ -17,7 +17,7 @@ To get started with the Bubble Pop Game, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/bubble-pop-game.git
+    git clone https://github.com/roh-ann23/bubble-pop-game.git
     ```
 
 2. Open the `index.html` file in a web browser.
